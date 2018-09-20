@@ -1,4 +1,4 @@
-This is a realistic dataset released by SpeedVideo Global Operating Platform (SVGOP) established by Huawei (http://speedvideo.huawei.com/mobilevmos/). SVGOP is a specific application of vMOS in mobile networks throughout the world. In particular, this dataset contains totally 89,266 samples with 11 features (i.e., QoS parameters) and 1 scoring factor vMOS. 
+This is a realistic dataset released by SpeedVideo Global Operating Platform (SVGOP) established by Huawei (http://speedvideo.huawei.com/mobilevmos/). SVGOP is a specific application of vMOS in mobile networks throughout the world. In particular, this dataset contains totally 89,266 samples with 11 features (i.e., QoS parameters) and 1 scoring factor vMOS. It is worth mentioning that the original dataset include the metrics in Simplified Chinese. We translate these Chinese metrics into English metrics (please refer to Notation Sheet).
 
 For more details about this paper, please refer to our paper "Data analysis on video streaming QoE over mobile networks" (https://jwcn-eurasipjournals.springeropen.com/articles/10.1186/s13638-018-1180-8).
 
